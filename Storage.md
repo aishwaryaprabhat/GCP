@@ -71,8 +71,3 @@ Fast random access with mobile SDKs | | Firebase realtime DB
 - Fast scanning of sequential key values
 - Data is sorted
 - Sensitive to hot spotting 
-
-## Review 
-1) Databases are an abstraction on file storage. File storage is an abstraction on _________ storage
-
-- Block storage
